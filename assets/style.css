@@ -12,8 +12,14 @@ body {
     font-size: 24px;
 }
 
+#currentWeather{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    flex-wrap: wrap; 
+    margin-right: 20px; 
+}
 
-#currentWeather,
 #futureWeather {
 
     display: flex;
