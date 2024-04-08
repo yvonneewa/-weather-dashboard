@@ -71,3 +71,8 @@ Repository contains a quality README file with description, screenshot, and link
 resorces
 https://openweathermap.org/
 https://getbootstrap.com/docs/5.3/components/card/
+
+
+
+
+![alt text](image.png)
